@@ -7,7 +7,7 @@
 
 ### مثال
 
-**if های تو در تو**
+**وجود if های تو در تو**
 ```python
 def create_user(data):
     if data:
