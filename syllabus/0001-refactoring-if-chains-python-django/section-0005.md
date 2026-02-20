@@ -3,7 +3,7 @@
 
 ## 5. Match-Case (Python 3.10+)
 
-Python 3.10+ امکان استفاده از match-case را می دهد که خواناتر از زنجیره if-elif است.
+در Python 3.10+ امکان استفاده از match-case را می دهد که خواناتر از زنجیره if-elif است.
 
 ```python
 def handle_status(status):
