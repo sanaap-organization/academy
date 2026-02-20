@@ -37,7 +37,7 @@ class WalletPayment(PaymentStrategy):
         ...
 ```
 
-**Factory ساده:**
+**روش Factory ساده:**
 ```python
 PAYMENT_METHODS = {
     "bank": BankPayment(),
